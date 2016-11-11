@@ -1,0 +1,22 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "(x)",
+  "main": "bookstore.js",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kimberlyolij",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "cth-assignments"
+  },
+  "keywords": [
+    "assignment-1"
+  ]
+}
